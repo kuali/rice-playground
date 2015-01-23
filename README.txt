@@ -18,7 +18,7 @@ test case 2
 README.txt
 
 
-Welcome to Git!!!
+Welcome to Git!!!   Thanks for the welcome!
 Kuali Rice ${project.version}
 ${readme.build.timestamp}
 
