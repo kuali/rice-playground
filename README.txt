@@ -23,7 +23,7 @@ Kuali Rice ${project.version}
 ${readme.build.timestamp}
 
 
-Contents
+Contents!
 -----
 Preface
 Licensing and Licenses
